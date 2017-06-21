@@ -1,5 +1,5 @@
 # Alvar
-Update to the original ALVAR Augmented Library by VTT Technical Research Centre of Finland by Druai Consulting.
+Update to the original ALVAR Augmented Reality Library by VTT Technical Research Centre of Finland by Druai Consulting.
 
 Converted the Alvar library to use the C++ interface to the OpenCV library, Version 2.4.11.  Cleaned up some
 issues, worked on const correctness, changed some argument passing for efficiency, updated to some C++ 11 features.
